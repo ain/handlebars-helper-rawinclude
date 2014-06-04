@@ -16,8 +16,8 @@
   },
   "licenses": [
     {
-      "type": "MIT",
-      "url": "https://github.com/ain/handlebars-helper-rawinclude/blob/master/LICENSE-MIT"
+      "type": "GPL",
+      "url": "https://github.com/ain/handlebars-helper-rawinclude/blob/master/LICENSE"
     }
   ],
   "main": "./index.js",
