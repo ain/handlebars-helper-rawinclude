@@ -1,4 +1,5 @@
-# {{rawinclude}}
+# {{rawinclude}} [![NPM version](http://img.shields.io/npm/v/handlebars-helper-rawinclude.svg)](https://www.npmjs.org/package/handlebars-helper-rawinclude)
+
 
 > Handlebars helper, includes raw content of the file pointed. Like
 > `handlebars-helper-include` but without context.
