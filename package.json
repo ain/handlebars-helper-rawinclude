@@ -7,6 +7,12 @@
     "name": "Ain Tohvri",
     "url": "https://github.com/ain"
   },
+  "contributors": [
+    {
+      "name": "Ain Tohvri",
+      "url": "https://github.com/ain"
+    }
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/ain/handlebars-helper-rawinclude.git"
@@ -36,6 +42,9 @@
     "grunt-readme": "~0.4.5",
     "grunt-repos": "~0.1.2",
     "grunt-sync-pkg": "~0.1.2"
+  },
+  "engines": {
+    "node": ">= 0.10.0"
   },
   "keywords": [
     "assemble",
