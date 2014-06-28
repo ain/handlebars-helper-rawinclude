@@ -1,7 +1,7 @@
 /**
  * Handlebars Helper: {{rawinclude}}
  * Copyright (c) 2014 Ain Tohvri
- * Licensed under the MIT License (MIT).
+ * Licensed under the GPL license.
  */
 
 'use strict';
