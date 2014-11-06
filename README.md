@@ -1,4 +1,4 @@
-# {{rawinclude}} [![NPM version](http://img.shields.io/npm/v/handlebars-helper-rawinclude.svg)](https://www.npmjs.org/package/handlebars-helper-rawinclude)
+# {{rawinclude}} [![npm version](https://badge.fury.io/js/handlebars-helper-rawinclude.svg)](http://badge.fury.io/js/handlebars-helper-rawinclude)
 
 
 > Handlebars helper, includes raw content of the file pointed. Like
