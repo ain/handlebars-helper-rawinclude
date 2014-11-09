@@ -34,10 +34,9 @@
     "gray-matter": "~0.2.3"
   },
   "devDependencies": {
-    "handlebars": "^2.0.0",
-    "should": "^4.0.4",
-    "verb": "^0.2.6",
-    "mocha": "^2.0.1"
+    "should": "~4.0.4",
+    "mocha": "~2.0.1",
+    "handlebars": "~2.0.0"
   },
   "engines": {
     "node": ">= 0.10.0"
