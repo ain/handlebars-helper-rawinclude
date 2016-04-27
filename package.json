@@ -31,12 +31,14 @@
     "test": "mocha"
   },
   "dependencies": {
-    "gray-matter": "~0.2.3"
+    "gray-matter": "~2.0.2"
+  },
+  "peerDependencies": {
+    "handlebars": "~4.0.5"
   },
   "devDependencies": {
-    "should": "~4.0.4",
-    "mocha": "~2.0.1",
-    "handlebars": "~2.0.0"
+    "should": "~8.3.1",
+    "mocha": "~2.4.5"
   },
   "engines": {
     "node": ">= 0.10.0"
