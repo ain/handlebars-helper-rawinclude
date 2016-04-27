@@ -1,10 +1,3 @@
-/**
- * {{rawínclude}} <http://github.com/ain/handlebars-helper-rawinclude>
- *
- * Copyright (c) 2014-2015 Ain Tohvri <https://github.com/ain>
- * Licensed under the GPL License (GPL)
- */
-
 var should = require('should');
 var Handlebars = require('handlebars');
 var helpers = require('./index');
