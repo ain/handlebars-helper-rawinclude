@@ -1,7 +1,7 @@
 /**
  * Handlebars Helper: {{rawinclude}}
- * Copyright (c) 2014 Ain Tohvri
- * Licensed under the GPL license.
+ * Copyright © 2014-2016 Ain Tohvri
+ * Licensed under GPL-3.0
  */
 
 'use strict';
