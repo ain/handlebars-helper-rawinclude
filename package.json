@@ -20,12 +20,7 @@
   "bugs": {
     "url": "https://github.com/ain/handlebars-helper-rawinclude/issues"
   },
-  "licenses": [
-    {
-      "type": "GPL",
-      "url": "https://github.com/ain/handlebars-helper-rawinclude/blob/master/LICENSE"
-    }
-  ],
+  "license": "GPL-3.0",
   "main": "./index.js",
   "scripts": {
     "test": "mocha"
