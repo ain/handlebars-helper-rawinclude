@@ -1,5 +1,5 @@
 /**
- * Handlebars Helper: {{rawinclude}}
+ * Handlebars Helper: {{{rawinclude}}}
  * Copyright © 2014-2016 Ain Tohvri
  * Licensed under GPL-3.0
  */
@@ -7,12 +7,12 @@
 'use strict';
 
 /**
- * {{rawinclude}}
+ * {{{rawinclude}}}
  * Like {{ include }} but without context.
  *
  * @param  {String} path    Path of the file to include.
  * @return {String}         Returns raw content of the file at path.
- * @example: {{rawinclude '/path/to/compund.svg'}}
+ * @example: {{{rawinclude '/path/to/compund.svg'}}}
  * @todo support for Array input, minimatch.
  */
 exports.rawinclude = function (path, options) {
@@ -24,9 +24,7 @@ exports.rawinclude = function (path, options) {
   options = options || {};
   options.hash = options.hash || {};
 
-  var Handlebars = require('handlebars');
-  var matter = require('gray-matter');
+  var fs = require('fs')
 
-  var result = matter.read(path);
-  return new Handlebars.SafeString(result.content);
+  return fs.readFileSync(path, 'utf8');
 };
