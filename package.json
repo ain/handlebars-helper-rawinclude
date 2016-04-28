@@ -1,7 +1,7 @@
 {
   "name": "handlebars-helper-rawinclude",
   "description": "Handlebars helper to include raw content of the files. Similar to handlebars-helper-include, but without context.",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "homepage": "https://github.com/ain/handlebars-helper-rawinclude",
   "author": {
     "name": "Ain Tohvri",
