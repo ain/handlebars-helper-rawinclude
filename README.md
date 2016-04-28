@@ -7,7 +7,7 @@
 
 In your Handlebars template:
 ```html
-{{rawinclude 'path/to/file.svg'}}
+{{{rawinclude 'path/to/file.svg'}}}
 ```
 
 ## Licence
