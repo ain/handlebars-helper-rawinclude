@@ -11,4 +11,4 @@ In your Handlebars template:
 ```
 
 ## Licence
-Copyright © 2014-2016 Ain Tohvri. Licenced under [GPL-3](https://github.com/ain/handlebars-helper-rawinclude/blob/master/LICENSE).
+Copyright © 2014-2017 Ain Tohvri. Licenced under [GPL-3](https://github.com/ain/handlebars-helper-rawinclude/blob/master/LICENSE).
