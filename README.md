@@ -10,5 +10,11 @@ In your Handlebars template:
 {{{rawinclude 'path/to/file.svg'}}}
 ```
 
+## Sponsors
+
+Cross-browser testing is powered by
+
+<a href="https://www.browserstack.com" title="BrowserStack"><img src="https://rawgithub.com/ain/handlebars-helper-rawinclude/master/browserstack.svg" height="32px" alt="BrowserStack"></a>
+
 ## Licence
 Copyright © 2014-2017 Ain Tohvri. Licenced under [GPL-3](https://github.com/ain/handlebars-helper-rawinclude/blob/master/LICENSE).
